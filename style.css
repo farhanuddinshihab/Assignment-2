@@ -1,0 +1,22 @@
+.card img{
+    height: 320px;
+    width: 250px;
+    margin: 0% auto;
+    padding: 20px;
+    background-color:seashell;
+    border-radius: 20px;
+}
+.card{
+    border: none;
+    border-radius: 30px;
+    padding-top: 20px;
+}
+h3{
+   float: right;}
+.buy-button{
+    border-radius: 10px;
+    background-color: tomato;
+    padding:7px;
+    border: none;
+    
+}
