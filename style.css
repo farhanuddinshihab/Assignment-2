@@ -20,3 +20,23 @@ h3{
     border: none;
     
 }
+h1{
+    color:blue;
+}
+h2{
+    color: brown;
+}
+h3{
+    color: chocolate;
+}
+h5{
+    color: chartreuse;
+}
+p{
+    font-weight: 400;
+    color: darkblue;
+}
+small{
+    font-weight: 500;
+    color: gray;
+}
